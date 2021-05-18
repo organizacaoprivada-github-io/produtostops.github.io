@@ -1,8 +1,0 @@
-# Node Modules Folder
-node_modules/
-
-# Visual Studio Config Folder
-.vscode/
-
-# Package Lock
-package-lock.json
